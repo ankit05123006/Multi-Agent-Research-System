@@ -1,0 +1,16 @@
+.env
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+!.env.sample
+
+# Python environment and cache
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Local files
+.DS_Store
+*.log
